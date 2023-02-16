@@ -268,7 +268,9 @@ code {
 a > code {
   color: inherit;
 }
-
+.author_name{
+  color: #fff;
+}
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;

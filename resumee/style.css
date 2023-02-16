@@ -79,7 +79,12 @@ a.nav-link{
 	color: #000000;
     background: var(--main-decor-color);
 }
-
+.cv_checker{
+	font-size: larger;
+}
+.cv_checker, a{
+	text-decoration: none;
+}
 /*──────────────────
        home
 ──────────────────*/
